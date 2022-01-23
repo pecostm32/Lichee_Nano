@@ -1,0 +1,14 @@
+===================
+Check if active
+==================
+
+sudo ./sunxi-fel version
+
+===================
+Load to RAM
+==================
+
+sudo ./sunxi-fel -p write 0x7FFFFFE0 lichee_nano_startup_screen.bin exe 0x80000000
+
+
+
