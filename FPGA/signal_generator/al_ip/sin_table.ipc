@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RomConfig>
+    <GeneralConfig>
+        <Type>ROM</Type>
+        <Device>AL3A10LG144C7</Device>
+        <create_VHDL>false</create_VHDL>
+        <inst>sin_rom</inst>
+        <debug_enable>false</debug_enable>
+        <pack_enable>false</pack_enable>
+    </GeneralConfig>
+    <ImplementOption>
+        <imp_type>9k</imp_type>
+    </ImplementOption>
+    <MemoryType>
+        <mem_type>DP</mem_type>
+    </MemoryType>
+    <PortAOption>
+        <depth_a>4096</depth_a>
+        <width_a>13</width_a>
+        <register_a>None</register_a>
+    </PortAOption>
+    <PortBOption>
+        <depth_b>4096</depth_b>
+        <width_b>13</width_b>
+        <register_b>None</register_b>
+    </PortBOption>
+    <MemoryInitialization>
+        <init_file_enable>true</init_file_enable>
+        <init_file>../source/sin_rom.mif</init_file>
+    </MemoryInitialization>
+    <FillMemoryInitValues>
+        <fill_all>NONE</fill_all>
+    </FillMemoryInitValues>
+</RomConfig>

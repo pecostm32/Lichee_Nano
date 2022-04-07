@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ODDRConfig>
+    <GeneralConfig>
+        <Type>AL_LOGIC_ODDR</Type>
+        <Device>AL3A10LG144C7</Device>
+        <create_VHDL>false</create_VHDL>
+        <inst>output_ddr</inst>
+        <SRMODE>SYNC</SRMODE>
+    </GeneralConfig>
+</ODDRConfig>

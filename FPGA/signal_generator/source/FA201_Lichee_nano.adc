@@ -1,0 +1,61 @@
+set_pin_assignment	{ i_xtal }	{ LOCATION = P23; IOSTANDARD = LVCMOS33; PULLTYPE = NONE; }
+
+set_pin_assignment	{ i_mcu_data_strobe }	{ LOCATION = P77; IOSTANDARD = LVCMOS33; PULLTYPE = NONE; }
+set_pin_assignment	{ i_mcu_control_srobe }	{ LOCATION = P80; IOSTANDARD = LVCMOS33; PULLTYPE = NONE; }
+
+set_pin_assignment	{ i_mcu_data[0] }	{ LOCATION = P73; IOSTANDARD = LVCMOS33; PULLTYPE = NONE; }
+set_pin_assignment	{ i_mcu_data[1] }	{ LOCATION = P71; IOSTANDARD = LVCMOS33; PULLTYPE = NONE; }
+set_pin_assignment	{ i_mcu_data[2] }	{ LOCATION = P69; IOSTANDARD = LVCMOS33; PULLTYPE = NONE; }
+set_pin_assignment	{ i_mcu_data[3] }	{ LOCATION = P68; IOSTANDARD = LVCMOS33; PULLTYPE = NONE; }
+set_pin_assignment	{ i_mcu_data[4] }	{ LOCATION = P70; IOSTANDARD = LVCMOS33; PULLTYPE = NONE; }
+set_pin_assignment	{ i_mcu_data[5] }	{ LOCATION = P72; IOSTANDARD = LVCMOS33; PULLTYPE = NONE; }
+set_pin_assignment	{ i_mcu_data[6] }	{ LOCATION = P75; IOSTANDARD = LVCMOS33; PULLTYPE = NONE; }
+set_pin_assignment	{ i_mcu_data[7] }	{ LOCATION = P74; IOSTANDARD = LVCMOS33; PULLTYPE = NONE; }
+
+set_pin_assignment	{ o_dac1_clk }	{ LOCATION = P42; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ o_dac1_data[0] }	{ LOCATION = P38; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ o_dac1_data[10] }	{ LOCATION = P105; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ o_dac1_data[11] }	{ LOCATION = P106; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ o_dac1_data[12] }	{ LOCATION = P110; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ o_dac1_data[13] }	{ LOCATION = P111; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ o_dac1_data[1] }	{ LOCATION = P39; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ o_dac1_data[2] }	{ LOCATION = P33; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ o_dac1_data[3] }	{ LOCATION = P34; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ o_dac1_data[4] }	{ LOCATION = P89; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ o_dac1_data[5] }	{ LOCATION = P32; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ o_dac1_data[6] }	{ LOCATION = P91; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ o_dac1_data[7] }	{ LOCATION = P88; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ o_dac1_data[8] }	{ LOCATION = P104; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ o_dac1_data[9] }	{ LOCATION = P90; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ o_dac1_wrt }	{ LOCATION = P43; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ o_dac2_clk }	{ LOCATION = P46; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ o_dac2_data[0] }	{ LOCATION = P66; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ o_dac2_data[10] }	{ LOCATION = P51; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ o_dac2_data[11] }	{ LOCATION = P52; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ o_dac2_data[12] }	{ LOCATION = P49; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ o_dac2_data[13] }	{ LOCATION = P50; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ o_dac2_data[1] }	{ LOCATION = P67; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ o_dac2_data[2] }	{ LOCATION = P64; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ o_dac2_data[3] }	{ LOCATION = P65; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ o_dac2_data[4] }	{ LOCATION = P59; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ o_dac2_data[5] }	{ LOCATION = P60; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ o_dac2_data[6] }	{ LOCATION = P55; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ o_dac2_data[7] }	{ LOCATION = P58; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ o_dac2_data[8] }	{ LOCATION = P53; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ o_dac2_data[9] }	{ LOCATION = P54; IOSTANDARD = LVCMOS33; }
+set_pin_assignment	{ o_dac2_wrt }	{ LOCATION = P44; IOSTANDARD = LVCMOS33; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
